@@ -1,0 +1,49 @@
+Início
+
+Levantar do sofá
+Caminhar até a cozinha 
+ir até a geladeira
+se a porta da geladeira estiver fechada então
+    abrir porta da geladeira
+fimse
+
+Pegar a garrafa de suco 
+Pegar o copo ao lado da geladeira
+Enxer o copo com suco
+Tomar o suco
+Colocar dentro da pia
+Caminhar até o banheiro
+se porta fechada então
+    abrir porta
+fimse
+
+
+Entrar no banheiro
+Fechar a porta do banheiro
+Ir até o armario
+Abrir a gaveta 
+Pegar a unica escova de dente
+Abrir a pasta de dente
+ Colocar a pasta na escova
+
+Levar a escova até a boca 
+ Escovar os dentes
+ Enxaguar a boca 
+Limpar escova de dentes 
+Tampar a pasta de dente 
+  se porta fechada então
+    abrir porta
+fimse
+
+Abrir a porta
+Sair do banheiro
+Fechar a porta
+Caminhar até o sofa
+Colocar o livro ao lado
+Se televisao estiver ligada
+    Entao desligar a televisao
+fimse
+
+Sentar no sofá
+
+Fim
