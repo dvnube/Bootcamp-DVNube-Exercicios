@@ -24,7 +24,7 @@ Cuspa a agua da boca na pia
 Limpar escova de dentes
 Tampar a pasta de dente
 Fecha a toneira 
- se cachorro estive na dentre então
+ se cachorro estive na frente então
   Pega o cachorro no colo
 Saia do banheiro
 Fecha a porta
